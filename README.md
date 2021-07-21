@@ -11,4 +11,6 @@ Back again after committing and pushing a useless property. Still working...
 
 So - this README.md is actually copied to the local repository, it just isn't added to the xCode Project. I can still do that by dragging it into the Project (directly underneath the main project name.) 
 
+And hoooray, works
+
 
