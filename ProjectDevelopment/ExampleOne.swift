@@ -21,6 +21,7 @@ struct ExampleOne {
         print("doing somthing")
     }
     
-    
-    
+    func addFunctionality() {
+        print("added this to check Github connection")
+    }
 }
