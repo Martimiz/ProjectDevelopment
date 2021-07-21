@@ -13,6 +13,7 @@
 		5AF0CB4226A841C3001E0A11 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5AF0CB4126A841C3001E0A11 /* Preview Assets.xcassets */; };
 		5AF0CB4D26A841C3001E0A11 /* ProjectDevelopmentTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AF0CB4C26A841C3001E0A11 /* ProjectDevelopmentTests.swift */; };
 		5AF0CB5826A841C3001E0A11 /* ProjectDevelopmentUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AF0CB5726A841C3001E0A11 /* ProjectDevelopmentUITests.swift */; };
+		5AF0CB6626A842C5001E0A11 /* ExampleOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AF0CB6526A842C5001E0A11 /* ExampleOne.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		5AF0CB5326A841C3001E0A11 /* ProjectDevelopmentUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ProjectDevelopmentUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5AF0CB5726A841C3001E0A11 /* ProjectDevelopmentUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectDevelopmentUITests.swift; sourceTree = "<group>"; };
 		5AF0CB5926A841C3001E0A11 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5AF0CB6526A842C5001E0A11 /* ExampleOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExampleOne.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				5AF0CB3A26A841C1001E0A11 /* ProjectDevelopmentApp.swift */,
 				5AF0CB3C26A841C1001E0A11 /* ContentView.swift */,
+				5AF0CB6526A842C5001E0A11 /* ExampleOne.swift */,
 				5AF0CB3E26A841C3001E0A11 /* Assets.xcassets */,
 				5AF0CB4326A841C3001E0A11 /* Info.plist */,
 				5AF0CB4026A841C3001E0A11 /* Preview Content */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5AF0CB3D26A841C1001E0A11 /* ContentView.swift in Sources */,
+				5AF0CB6626A842C5001E0A11 /* ExampleOne.swift in Sources */,
 				5AF0CB3B26A841C1001E0A11 /* ProjectDevelopmentApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
