@@ -13,6 +13,8 @@ struct ExampleOne {
     
     var someProperty: Int = 1
     
+    var uselessProperty: String = "I am useless"
+    
     // MARK: - functions
     
     /// This function prints that it is doing something
